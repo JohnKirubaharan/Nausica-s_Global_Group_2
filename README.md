@@ -60,7 +60,7 @@ Clean and simple design User access levels (client, administrator) Includes at l
 Database Database persistence technology Define the buisness Requirements Named queries and database triggers for security Regex for cleansing and validation of data before sending to the database.
 
 # Useful Links
-- Project Slack: https://atudevops.slack.com
+- Project Slack: https://app.slack.com/client/T0419S2HV9B/C08355CCTBP
 - GitHub: <<staff member's github repo for the student project>>
 
 # More Information
