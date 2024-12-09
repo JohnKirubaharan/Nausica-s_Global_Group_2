@@ -1,11 +1,11 @@
 # Nausica-s_Global_Group_2
-## ** *Nausicaä’s Global Green Initiative* **
+##***Nausicaä’s Global Green Initiative***
 
 ProjTemplate
 MScDevOps Assign - Group <<2>>
 
 
-** Table of Contents **
+**Table of Contents**
 ________________________________________________________________________________________________________________
 
 | Column 1 |
@@ -36,7 +36,7 @@ Each team should fill in the blanks <<>> and add additional content that the tea
 
 <> Our product will be delivered using an Agile methodology that embraces the DevOps culture. Please note that our culture embraces change and these documents are treated as living, breathing artefacts that will be continuously updated.
 
-#Scrum Master
+#Scrum Master#
 ______________________________________________________________________________________________________________________________________________________________________________
 <<Week 1-2, student name>> Rotating scrum master so that everyone gets to experience the role once.
 
