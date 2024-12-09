@@ -5,26 +5,30 @@ ProjTemplate
 MScDevOps Assign - Group <<2>>
 
 Table of Contents
-Preamble
-Scrum Masters
-Product Owner
-Team Members
-Project Deadline
-Project Specification
-Useful Links
-More Information
-Risk Register
-Tenants of Design
-Social Contract
-Meetings
-Communication
-Other
-Branching Strategy
-Estimating Story Points
-Definition of Ready
-Definition of Done
-Preamble
-This is the online repository for the DevOps Assignment.
+
+| Column 1 |
+|----------|
+|Preamble|
+|Scrum Masters|
+|Product Owner|
+|Team Members|
+|Project Deadline|
+|Project Specification|
+|Useful Links|
+|More Information|
+|Risk Register|
+|Tenants of Design|
+|Social Contract|
+|Meetings|
+|Communication|
+|Other|
+|Branching Strategy|
+|Estimating Story Points|
+|Definition of Ready|
+|Definition of Done|
+|Preamble|
+|This is the online repository for the DevOps Assignment.|
+
 Each team should fill in the blanks <<>> and add additional content that the team agrees on. This is your contract of work. It is an agreement amongst yourselves. Honour it.
 
 <> Our product will be delivered using an Agile methodology that embraces the DevOps culture. Please note that our culture embraces change and these documents are treated as living, breathing artefacts that will be continuously updated.
