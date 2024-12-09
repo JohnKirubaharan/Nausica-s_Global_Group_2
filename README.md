@@ -43,7 +43,12 @@ Each team should fill in the blanks <<>> and add additional content that the tea
 <<Week 1-2, student name>> Rotating product owner so that everyone gets to experience the role once.
 
 # Team Members
-<==John Kirubaharan==,==Sherine Anbaiyan==,==Athul Sugumaran==,==Manish==,==Vinay==,==Siddartha==>
+==John Kirubaharan==
+==Sherine Anbaiyan==
+==Athul Sugumaran==
+==Manish==
+==Vinay==
+==Siddartha==
 
 # Project Deadline
 Thursday 23rd March at midnight
