@@ -10,28 +10,26 @@ MScDevOps Assign - Group <<2>>
 **Table of Contents**
 ________________________________________________________________________________________________________________
 
-| Column 1 |
-|----------|
-|Preamble|
-|Scrum Masters|
-|Product Owner|
-|Team Members|
-|Project Deadline|
-|Project Specification|
-|Useful Links|
-|More Information|
-|Risk Register|
-|Tenants of Design|
-|Social Contract|
-|Meetings|
-|Communication|
-|Other|
-|Branching Strategy|
-|Estimating Story Points|
-|Definition of Ready|
-|Definition of Done|
-|Preamble|
-|This is the online repository for the DevOps Assignment.|
+- Preamble
+Scrum Masters
+Product Owner
+Team Members
+Project Deadline
+Project Specification
+Useful Links
+More Information
+Risk Register
+Tenants of Design
+Social Contract
+Meetings
+Communication
+Other
+Branching Strategy
+Estimating Story Points
+Definition of Ready
+Definition of Done
+Preamble
+This is the online repository for the DevOps Assignment 
 
 ______________________________________________________________________________________________________________________________________________________________________________
 Each team should fill in the blanks <<>> and add additional content that the team agrees on. This is your contract of work. It is an agreement amongst yourselves. Honour it.
@@ -39,35 +37,28 @@ Each team should fill in the blanks <<>> and add additional content that the tea
 <> Our product will be delivered using an Agile methodology that embraces the DevOps culture. Please note that our culture embraces change and these documents are treated as living, breathing artefacts that will be continuously updated.
 
 # Scrum Master
-______________________________________________________________________________________________________________________________________________________________________________
 <<Week 1-2, student name>> Rotating scrum master so that everyone gets to experience the role once.
 
 # Product Owner
-______________________________________________________________________________________________________________________________________________________________________________
 <<Week 1-2, student name>> Rotating product owner so that everyone gets to experience the role once.
 
 # Team Members
-______________________________________________________________________________________________________________________________________________________________________________
 <==John Kirubaharan==,==Sherine Anbaiyan==,==Athul Sugumaran==,==Manish==,==Vinay==,==Siddartha==>
 
 # Project Deadline
-______________________________________________________________________________________________________________________________________________________________________________
 Thursday 23rd March at midnight
 
 # Project Specification
-______________________________________________________________________________________________________________________________________________________________________________
 Clean and simple design User access levels (client, administrator) Includes at least one self developed api and one webservice To be run over
 
 # Frameworks
-______________________________________________________________________________________________________________________________________________________________________________
 Database Database persistence technology Define the buisness Requirements Named queries and database triggers for security Regex for cleansing and validation of data before sending to the database.
 
 # Useful Links
-______________________________________________________________________________________________________________________________________________________________________________
-	- Project Slack: https://atudevops.slack.com
-	- GitHub: <<staff member's github repo for the student project>>
+- Project Slack: https://atudevops.slack.com
+- GitHub: <<staff member's github repo for the student project>>
 
-#More Information
+# More Information
 For more information visit our other sections <<>>
 
 Risk Register
