@@ -10,7 +10,7 @@ MScDevOps Assign - Group <<2>>
 **Table of Contents**
 ________________________________________________________________________________________________________________
 
-- Preamble
+	- Preamble
 Scrum Masters
 Product Owner
 Team Members
@@ -29,7 +29,7 @@ Estimating Story Points
 Definition of Ready
 Definition of Done
 Preamble
-This is the online repository for the DevOps Assignment 
+This is the online repository for the DevOps Assignment -
 
 ______________________________________________________________________________________________________________________________________________________________________________
 Each team should fill in the blanks <<>> and add additional content that the team agrees on. This is your contract of work. It is an agreement amongst yourselves. Honour it.
