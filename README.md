@@ -107,18 +107,20 @@ Update the below to add what the group is using <<>>
 # Agile project management methods/principles (jira)
 
 # Social Contract
-Mobile phones be left on silent during sprint sessions and class time.
-Be on time for team meetings and class, if you are running late let the group know by sending a message into the Slack channel.
-Everyone has an equal voice and valuable contribution.
-When you are assigned a job, take ownership of it and keep it up to date, do not be afraid to ask others for help, 
-always be honest about your work.
-Do not speak over someone when they are expressing a point, everyone has an equal voice.
-No blame culture.
-Do not be afraid to ask for help, we are all learning.
-No invisble work.
-Ask questions to make sure you understand the task given to you.
-Try have some fun, team work makes the dream work.
-Use Agile methodoligies in the project at all times.
+
+##
+	Mobile phones be left on silent during sprint sessions and class time.
+	Be on time for team meetings and class, if you are running late let the group know by sending a message into the Slack channel.
+	Everyone has an equal voice and valuable contribution.
+	When you are assigned a job, take ownership of it and keep it up to date, do not be afraid to ask others for help, 
+	always be honest about your work.
+	Do not speak over someone when they are expressing a point, everyone has an equal voice.
+	No blame culture.
+	Do not be afraid to ask for help, we are all learning.
+	No invisble work.
+	Ask questions to make sure you understand the task given to you.
+	Try have some fun, team work makes the dream work.
+	Use Agile methodoligies in the project at all times.
 
 # Meetings
 Stand-ups will occur on Every <<day/time>> during class and <<day/time>> using Automated bot. Two per week.
