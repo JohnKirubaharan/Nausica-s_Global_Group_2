@@ -86,19 +86,22 @@ Update the below to add what the group is using <<>>
 <<>>.
 
 # Testing:
-Unit testing <<>>
-integretation testing <<>>
-UA <<>>
+
+- Unit testing <<>>
+- integretation testing <<>>
+- UA <<>>
 
 #Environments:
-staging and production <<>>
-tight configuration management for consistency and reproducibility <<>>
-automated creation and deployments <<>>
-integrated and automated pipeline (commit -> test -> deploy) <<>>
+
+- staging and production <<>>
+- tight configuration management for consistency and reproducibility <<>>
+- automated creation and deployments <<>>
+- integrated and automated pipeline (commit -> test -> deploy) <<>>
 
 # Github version control:
-branches used <<>>
-version/release management <<>>
+
+- branches used <<>>
+- version/release management <<>>
 
 # Agile project management methods/principles (jira)
 
