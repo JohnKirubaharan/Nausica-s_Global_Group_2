@@ -123,52 +123,58 @@ Update the below to add what the group is using <<>>
 	Use Agile methodoligies in the project at all times.
 
 # Meetings
-Stand-ups will occur on Every <<day/time>> during class and <<day/time>> using Automated bot. Two per week.
-The order that people give their updates will be << >>.
-Updates will be in the form: What I've done, Impediments, What I plan to do.
-Sprint planning will occur at <<date/time>> every week.
-Please add and update items within <<issue management tool>> a prior to the sprint planning session.
-Sprint retro will at the end of our sprint on <<Date/Time>> (timebox retro for 15 minutes, to be organised by the scrum master).
-The order that people present their sprint retro updates will be based on The Team 1 list in the Assign_BSc_DevOps_2022.pdf file 
-  on blackboard of those present at the meeting.
-Points raised in the sprint retro will be noted and posted on the slack channel by the Scrum Master. The Scrum Master is rotated 
-  per team member every week.
-Backlog refinement will happen on <<date/time>> during our sprint.
-Task estimation will be done using << >>. 
-Come prepared to meetings.
-Be on time for Stand Ups and meetings.
-Mobile phones on silent.
-Everyone has equal voice and valuable contribution.
-Keep your language and tone professional at all times.
-Be honest.
+
+##
+	Stand-ups will occur on Every <<day/time>> during class and <<day/time>> using Automated bot. Two per week.
+	The order that people give their updates will be << >>.
+	Updates will be in the form: What I've done, Impediments, What I plan to do.
+	Sprint planning will occur at <<date/time>> every week.
+	Please add and update items within <<issue management tool>> a prior to the sprint planning session.
+	Sprint retro will at the end of our sprint on <<Date/Time>> (timebox retro for 15 minutes, to be organised by the scrum master).
+	The order that people present their sprint retro updates will be based on The Team 1 list in the Assign_BSc_DevOps_2022.pdf file 
+	on blackboard of those present at the meeting.
+	Points raised in the sprint retro will be noted and posted on the slack channel by the Scrum Master. The Scrum Master is rotated 
+	per team member every week.
+	Backlog refinement will happen on <<date/time>> during our sprint.
+	Task estimation will be done using << >>. 
+	Come prepared to meetings.
+	Be on time for Stand Ups and meetings.
+	Mobile phones on silent.
+	Everyone has equal voice and valuable contribution.
+	Keep your language and tone professional at all times.
+	Be honest.
 
 # Communication
-Slack is the preferred method of communication.
-If a demonstration is required use Loom, record the session and upload to the Slack channel.
-No Slack communications between <<time and time>>.
-Raise a problem as soon as you see it.
-Respect each other and understand differences in knowledge.
-All team documents are to be created using Markdown language and shared on GitHub.
-There are no silly questions, if you don’t understand, ask.
-Share success stories.
-Focus on the positives.
-Don’t make assumptions.
-Don’t interrupt and cut another person off while they are talking.
-Listen when someone is talking, don’t interject.
-Zero tolerance for bullying.
+
+##
+	Slack is the preferred method of communication.
+	If a demonstration is required use Loom, record the session and upload to the Slack channel.
+	No Slack communications between <<time and time>>.
+	Raise a problem as soon as you see it.
+	Respect each other and understand differences in knowledge.
+	All team documents are to be created using Markdown language and shared on GitHub.
+	There are no silly questions, if you don’t understand, ask.
+	Share success stories.
+	Focus on the positives.
+	Don’t make assumptions.
+	Don’t interrupt and cut another person off while they are talking.
+	Listen when someone is talking, don’t interject.
+	Zero tolerance for bullying.
 
 # Agile way of working.
-If you are assigned a job, take ownership of it and keep it up to date.
-Stick to your agreed working patterns. Let the team know when you are late or going early.
-Keep JIRA board updated at all times.
-Update the Scrum Board as you progress the story i.e. don’t update at standup.
-Don't be afraid to ask for help.
-Don't be afraid to give constructive criticism, as long as it is constructive.
-Solve roadblocks within the team. If the impediment can’t be solved within the team then give it to the Scrum Master.
-Sprints will start <<>>
-The Scrum Master role rotates each week 
-Each member of the team will work approximately <<hours>> hours per week, unless they are on vacation.
-Our branching stategy will start with <<>>
+
+##
+	If you are assigned a job, take ownership of it and keep it up to date.
+	Stick to your agreed working patterns. Let the team know when you are late or going early.
+	Keep JIRA board updated at all times.
+	Update the Scrum Board as you progress the story i.e. don’t update at standup.
+	Don't be afraid to ask for help.
+	Don't be afraid to give constructive criticism, as long as it is constructive.
+	Solve roadblocks within the team. If the impediment can’t be solved within the team then give it to the Scrum Master.
+	Sprints will start <<>>
+	The Scrum Master role rotates each week 
+	Each member of the team will work approximately <<hours>> hours per week, unless they are on vacation.
+	Our branching stategy will start with <<>>
 
 # Estimating Story Points
 The teams team's velocity is calculated by <>.
