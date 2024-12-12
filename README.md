@@ -82,8 +82,9 @@ Update the below to add what the group is using <<>>
 - Datastore for persistance <<>>
 
 # Security:
-<< >>: uses static analysis to find bugs in code.
-<<>>.
+
+- << >>: uses static analysis to find bugs in code.
+- <<>>.
 
 # Testing:
 
@@ -91,7 +92,7 @@ Update the below to add what the group is using <<>>
 - integretation testing <<>>
 - UA <<>>
 
-#Environments:
+# Environments:
 
 - staging and production <<>>
 - tight configuration management for consistency and reproducibility <<>>
