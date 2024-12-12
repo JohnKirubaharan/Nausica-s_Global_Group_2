@@ -48,7 +48,7 @@ Week 1-2, **Manish Potlacheruvu**. Rotating product owner so that everyone gets 
 3. Athul Sugumaran
 4. Manish Potlacheruvu
 5. Vinay Kumar Podila
-6. iddhartha Vijay Kumar
+6. Siddhartha Vijay Kumar
 
 # Project Deadline
 Thursday 23rd March at midnight
