@@ -1,8 +1,8 @@
 # Nausica-s_Global_Group_2
 ## ***Nausicaä’s Global Green Initiative***
 
-ProjTemplate
-MScDevOps Assign - Group <<2>>
+Project Template
+MScDevOps Assign - **Group 2**
 
 
 **Table of Contents**
@@ -34,21 +34,21 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________________________________________________________
 Each team should fill in the blanks <<>> and add additional content that the team agrees on. This is your contract of work. It is an agreement amongst yourselves. Honour it.
 
-<> Our product will be delivered using an Agile methodology that embraces the DevOps culture. Please note that our culture embraces change and these documents are treated as living, breathing artefacts that will be continuously updated.
+Our product will be delivered using an Agile methodology that embraces the DevOps culture. Please note that our culture embraces change and these documents are treated as living, breathing artefacts that will be continuously updated.
 
 # Scrum Master
-<<Week 1-2, student name>> Rotating scrum master so that everyone gets to experience the role once.
+Week 1-2, **Vinay Kumar Podila**. Rotating scrum master so that everyone gets to experience the role once.
 
 # Product Owner
-<<Week 1-2, student name>> Rotating product owner so that everyone gets to experience the role once.
+Week 1-2, **Manish Potlacheruvu**. Rotating product owner so that everyone gets to experience the role once.
 
 # Team Members
 1. John Kirubaharan
 2. Sherine Anbaiyan
 3. Athul Sugumaran
-4. Manish
-5. Vinay
-6. Siddartha
+4. Manish Potlacheruvu
+5. Vinay Kumar Podila
+6. iddhartha Vijay Kumar
 
 # Project Deadline
 Thursday 23rd March at midnight
@@ -66,37 +66,43 @@ Database Database persistence technology Define the buisness Requirements Named 
 # More Information
 For more information visit our other sections <<>>
 
-Risk Register
+# Risk Register
 These are the current Risks on the project, re-aligned on a weekly basis
 
-Tenants of Design
+# Tenants of Design
 Update the below to add what the group is using <<>>
 
-Dedication to clean, secure, performant and self documented code
-code Frameworks used <<>>
-programming using the IDE << >>
-code coverage tool used <<>>
-Secure code: <<>>
-performance testing tool to be used <<>>
-Documentation / code commenting <<>>
-Datastore for persistance <<>>
-Security:
+- Dedication to clean, secure, performant and self documented code
+	- code Frameworks used <<>>
+	- programming using the IDE << >>
+	- code coverage tool used <<>>
+	- Secure code: <<>>
+	- performance testing tool to be used <<>>
+- Documentation / code commenting <<>>
+- Datastore for persistance <<>>
+
+# Security:
 << >>: uses static analysis to find bugs in code.
 <<>>.
-Testing:
+
+# Testing:
 Unit testing <<>>
 integretation testing <<>>
 UA <<>>
-Environments:
+
+#Environments:
 staging and production <<>>
 tight configuration management for consistency and reproducibility <<>>
 automated creation and deployments <<>>
 integrated and automated pipeline (commit -> test -> deploy) <<>>
-Github version control:
+
+# Github version control:
 branches used <<>>
 version/release management <<>>
-Agile project management methods/principles (jira)
-Social Contract
+
+# Agile project management methods/principles (jira)
+
+# Social Contract
 Mobile phones be left on silent during sprint sessions and class time.
 Be on time for team meetings and class, if you are running late let the group know by sending a message into the Slack channel.
 Everyone has an equal voice and valuable contribution.
@@ -109,7 +115,8 @@ No invisble work.
 Ask questions to make sure you understand the task given to you.
 Try have some fun, team work makes the dream work.
 Use Agile methodoligies in the project at all times.
-Meetings
+
+# Meetings
 Stand-ups will occur on Every <<day/time>> during class and <<day/time>> using Automated bot. Two per week.
 The order that people give their updates will be << >>.
 Updates will be in the form: What I've done, Impediments, What I plan to do.
@@ -128,7 +135,8 @@ Mobile phones on silent.
 Everyone has equal voice and valuable contribution.
 Keep your language and tone professional at all times.
 Be honest.
-Communication
+
+# Communication
 Slack is the preferred method of communication.
 If a demonstration is required use Loom, record the session and upload to the Slack channel.
 No Slack communications between <<time and time>>.
@@ -142,7 +150,8 @@ Don’t make assumptions.
 Don’t interrupt and cut another person off while they are talking.
 Listen when someone is talking, don’t interject.
 Zero tolerance for bullying.
-Agile way of working.
+
+# Agile way of working.
 If you are assigned a job, take ownership of it and keep it up to date.
 Stick to your agreed working patterns. Let the team know when you are late or going early.
 Keep JIRA board updated at all times.
@@ -154,9 +163,11 @@ Sprints will start <<>>
 The Scrum Master role rotates each week 
 Each member of the team will work approximately <<hours>> hours per week, unless they are on vacation.
 Our branching stategy will start with <<>>
-Estimating Story Points
+
+# Estimating Story Points
 The teams team's velocity is calculated by <>.
 
 The teams current story point velocity is "N/A". <>
 
-Definition of Ready/Done
+# Definition of Ready/Done
+<>
