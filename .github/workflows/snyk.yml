@@ -17,12 +17,12 @@ jobs:
 
       # Step 2: Install Snyk
       - name: Set up Snyk
-        uses: snyk/actions/setup@v3
+        uses: snyk/actions/setup@V2
         with:
           token: ${{ secrets.SNYK_TOKEN }}
 
       # Step 3: Run Snyk Test
       - name: Snyk Test
-        uses: snyk/actions/test@v3
+        uses: snyk/actions/test@V2
         with:
           monitor-when-failed: true
