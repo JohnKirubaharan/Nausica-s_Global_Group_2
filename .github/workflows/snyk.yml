@@ -25,13 +25,22 @@ jobs:
       # Step 3: Run Snyk Test
       - name: Snyk Test
        # uses: snyk/actions/test@v2
-        uses: snyk/actions/setup@master
+       # uses: snyk/actions/setup@master
+        uses: snyk/actions/node@master
+        run: snyk test
         with:
         #  severity-threshold: high # This lie is used to fail the pipeline when vulnerabilities are detected
           monitor-when-failed: true
-
+         # The monitor-when-failed flag ensures the test is monitored in Snyk even if vulnerabilities are found.
+          
       # Step 4: Snyk Monitor # to continuously track the state of the project in the Snyk dashboard:
       - name: Snyk Monitor
-        uses: snyk/actions/monitor@v3
+       # uses: snyk/actions/monitor@v3
+        uses: snyk/actions/node@master
+        env:
+          SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
         with:
+          command: monitor
           project-name: Nausica-s_Global_Group_2
+
+          
