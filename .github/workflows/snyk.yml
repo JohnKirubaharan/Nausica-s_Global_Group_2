@@ -27,4 +27,11 @@ jobs:
        # uses: snyk/actions/test@v2
         uses: snyk/actions/setup@master
         with:
+        #  severity-threshold: high # This lie is used to fail the pipeline when vulnerabilities are detected
           monitor-when-failed: true
+
+      # Step 4: Snyk Monitor # to continuously track the state of the project in the Snyk dashboard:
+      - name: Snyk Monitor
+        uses: snyk/actions/monitor@v3
+        with:
+          project-name: Nausica-s_Global_Group_2
