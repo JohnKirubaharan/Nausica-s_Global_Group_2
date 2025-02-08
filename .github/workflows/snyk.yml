@@ -27,7 +27,7 @@ jobs:
        # uses: snyk/actions/test@v2
        # uses: snyk/actions/setup@master
         uses: snyk/actions/node@master
-        run: snyk test
+       # run: snyk test
         with:
         #  severity-threshold: high # This lie is used to fail the pipeline when vulnerabilities are detected
           monitor-when-failed: true
