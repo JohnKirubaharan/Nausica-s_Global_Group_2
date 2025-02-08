@@ -1,0 +1,28 @@
+name: Snyk Vulnerability Scan
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  snyk:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the code
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Step 2: Install Snyk
+      - name: Set up Snyk
+        uses: snyk/actions/setup@v3
+        with:
+          token: ${{ secrets.SNYK_TOKEN }}
+
+      # Step 3: Run Snyk Test
+      - name: Snyk Test
+        uses: snyk/actions/test@v3
+        with:
+          monitor-when-failed: true
