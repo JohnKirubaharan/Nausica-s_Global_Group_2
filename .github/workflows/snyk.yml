@@ -11,36 +11,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout the code
+      # Step 1: Checkout the code/Check out the repository
       - name: Checkout code
         uses: actions/checkout@v3
 
-      # Step 2: Install Snyk
-      - name: Set up Snyk
-        #uses: snyk/actions/setup@v2
-        uses: snyk/actions/setup@master
-        with:
-          token: ${{ secrets.SNYK_TOKEN }}
+      # Step 2: Install dependencies (e.g., for a Node.js project)
+      - name: Install dependencies
+        run: npm install
 
-      # Step 3: Run Snyk Test
-      - name: Snyk Test
-       # uses: snyk/actions/test@v2
-       # uses: snyk/actions/setup@master
-        uses: snyk/actions/node@master
-       # run: snyk test
-        with:
-        #  severity-threshold: high # This lie is used to fail the pipeline when vulnerabilities are detected
-          monitor-when-failed: true
-         # The monitor-when-failed flag ensures the test is monitored in Snyk even if vulnerabilities are found.
-          
-      # Step 4: Snyk Monitor # to continuously track the state of the project in the Snyk dashboard:
-      - name: Snyk Monitor
-       # uses: snyk/actions/monitor@v3
-        uses: snyk/actions/node@master
+      # Step 3: Authenticate with Snyk (Snyk API token)
+      - name: Authenticate with Snyk
+        run: snyk auth ${{ secrets.SNYK_TOKEN }}
+
+      # Step 4: Run Snyk Test on the project
+      - name: Run Snyk Test
+        run: snyk test
+        env:
+          SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}  # Use the Snyk API token from GitHub Secrets
+
+      # Step 5: Monitor results and upload to Snyk dashboard
+      - name: Monitor Project in Snyk Dashboard
+        run: snyk monitor #--file=package.json --file=yarn.lock
         env:
           SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
-        with:
-          command: monitor
-          project-name: Nausica-s_Global_Group_2
-
-          
